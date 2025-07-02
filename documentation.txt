@@ -1,0 +1,3 @@
+# Serper tool <--> tavilyAPI  <--> Gemini(LLM) ---> Response
+
+# 1. function (Node) ----> edges(start, serper, tavily, gemini, end)
